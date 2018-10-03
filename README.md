@@ -9,7 +9,7 @@ This library is extended from https://github.com/django-json-api/django-rest-fra
 Installation pip
 ===================
 ```
-pip install -e git+https://github.com/mobile-health/drf-custom-json-api.git#egg=drf-custom-json-api
+pip install -e git+https://github.com/luhonghai/drf-custom-json-api.git#egg=drf-custom-json-api
 ```
 
 We customize the response of pagination
